@@ -1,2 +1,2 @@
 # sample
-Just a sample repository
+This is a sample repository. Hope to expand on this.
